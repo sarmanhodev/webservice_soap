@@ -8,7 +8,8 @@ Após criar a env, basta instalar as dependências necessárias:
 2 - .\env\Scripts\pip3 install uvicorn
 3 - .\env\Scripts\pip3 install dicttoxml
 
-O arquivo dict.py faz a conversão de dicionários para arquios XML.
+O arquivo dict.py faz a conversão de dicionários para arquivos XML.
+Os arquivos XML gerados da conversão são, respectivamente: livros.xml e autores.xml
 
 Para executar o código da FastAPI, basta dar o seguinte comando: uvicorn main:app --reload
 
