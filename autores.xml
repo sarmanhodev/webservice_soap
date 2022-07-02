@@ -1,0 +1,46 @@
+<!--ARQUIVO RESULTANTE DA CONVERSÃO DE DICIONÁRIO DE LIVROS-->
+<?xml version="1.0" encoding="UTF-8" ?>
+        <autor>
+
+                <autor id="1" type="dict">
+                        <id id="1" type="int">1</id>
+                        <cpf id="1" type="str">111.222.333-00</cpf>
+                        <nome id="1" type="str">J.K. Rowling</nome>
+                        <livro id="1" type="dict">
+                                <id id="1" type="int">1</id>
+                                <titulo id="1" type="str">Harry Potter e a Pedra Filosofal</titulo>
+                                <paginaInicial id="1" type="int">1</paginaInicial>
+                                <paginaFinal id="1" type="int">309</paginaFinal>
+                                <anoPublicacao id="1" type="int">1998</anoPublicacao>
+                        </livro>
+                </autor>
+
+
+                <autor id="2" type="dict">
+                        <id id="2" type="int">2</id>
+                        <cpf id="2" type="str">222.333.444-11</cpf>
+                        <nome id="2" type="str">Eric John Ernest Hobsbawm</nome>
+                        <livro id="2" type="dict">
+                                <id id="2" type="int">2</id>
+                                <titulo id="2" type="str">Era dos Extremos: o breve século XX, 1914–1991</titulo>
+                                <paginaInicial id="2" type="int">1</paginaInicial>
+                                <paginaFinal id="2" type="int">632</paginaFinal>
+                                <anoPublicacao id="2" type="int">1994</anoPublicacao>
+                        </livro>
+                </autor>
+
+
+                <autor id="2" type="dict">
+                        <id id="2" type="int">3</id>
+                        <cpf id="2" type="str">333.444.777-22</cpf>
+                        <nome id="2" type="str"> Chris Kyle</nome>
+                        <livro id="2" type="dict">
+                                <id id="2" type="int">3</id>
+                                <titulo id="2" type="str">American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History</titulo>
+                                <paginaInicial id="2" type="int">1</paginaInicial>
+                                <paginaFinal id="2" type="int">400</paginaFinal>
+                                <anoPublicacao id="2" type="int">2012</anoPublicacao>
+                        </livro>
+                </autor>
+
+</autor>
